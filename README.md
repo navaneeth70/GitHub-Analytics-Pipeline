@@ -14,7 +14,7 @@
 | Animesh Balaji | 2420030301 |
 | Navaneeth | 2420030306 |
 
-**Project Guide / Supervisor:** ______________________
+**Project Guide / Supervisor:** Dr.Nalla Sirisha
 
 ---
 
